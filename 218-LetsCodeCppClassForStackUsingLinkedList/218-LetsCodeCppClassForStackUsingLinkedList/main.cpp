@@ -112,3 +112,6 @@ int main() {
     cout << "is Stack Full? " << stk.isFull() << endl;
     return 0;
 }
+/* I am not modifying here but i will make some changes for this code in cpp because for stack we can use some stl like stk.front or stk.back like i will make changes
+if you allow me to.By this we can reduce the code.I won't be modifying this code but i am going to do it by using cpp stl related to cpp11.
+I am good in cpp soo i will add some if you don't mind only by using some of stl algorithms because it will help us reduce the code size.It will be easy
